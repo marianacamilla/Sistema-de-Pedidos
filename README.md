@@ -5,4 +5,4 @@
 Sistema de cadastro de pedidos com usuário.
 
 Exemplo:
-![Captura de Tela (3)](https://user-images.githubusercontent.com/102675098/204584318-c0f828ee-896d-4b10-8e7a-c8bc476dc71a.png)
+![Captura de Tela (4)](https://user-images.githubusercontent.com/102675098/204585503-92775071-cb5b-42d0-a994-349edfa0e579.png)
